@@ -22,6 +22,8 @@ fetch('db.json')
   });
 
 
+
+  
 function displayCategories(categories) {
   categoriesContainer.innerHTML = '';
   
