@@ -51,7 +51,6 @@ function displayRecipes(category) {
   categoryTitle.textContent = category.name;
   categoryDisplay.style.display = 'block';
   
-  
   recipesContainer.innerHTML = '';
   
   
