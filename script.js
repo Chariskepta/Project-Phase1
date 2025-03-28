@@ -46,8 +46,7 @@ function displayCategories(categories) {
     categoriesContainer.appendChild(categoryCard);
   });
 }
-function displayRecipes(category) {
-  
+function displayRecipes(category) { 
   categoryImage.src = category.image;
   categoryTitle.textContent = category.name;
   categoryDisplay.style.display = 'block';
