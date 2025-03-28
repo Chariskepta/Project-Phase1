@@ -23,7 +23,7 @@ fetch('db.json')
 
 
 
-  
+
 function displayCategories(categories) {
   categoriesContainer.innerHTML = '';
   
@@ -48,6 +48,8 @@ function displayCategories(categories) {
     categoriesContainer.appendChild(categoryCard);
   });
 }
+
+
 function displayRecipes(category) { 
   categoryImage.src = category.image;
   categoryTitle.textContent = category.name;
