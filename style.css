@@ -20,7 +20,7 @@ body {
     margin-bottom: 30px;
   }
   
-  
+
   .categories {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -124,6 +124,7 @@ body {
   .favorite-btn:hover {
     background: #6bc4ad;
   }
+  
   
   @media (max-width: 768px) {
     .categories {
