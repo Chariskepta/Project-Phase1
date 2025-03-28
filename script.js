@@ -91,7 +91,7 @@ function addToFavorites(event) {
     })
   })
 
-  
+
   .then(response => response.json())
   .then(data => {
     event.target.textContent = '✓ Added to Favorites!';
@@ -100,6 +100,7 @@ function addToFavorites(event) {
       event.target.textContent = '❤️ Added to Favorites';
       event.target.style.backgroundColor = '#84dcc6';
     }, 2000);
+    
   })
   .catch(error => {
     console.error('Error:', error);
