@@ -33,7 +33,6 @@ body {
     cursor: pointer;
     transition: all 0.3s ease;
   }
-  
   .category-card:hover {
     transform: translateY(-5px);
     background: rgba(255, 255, 255, 0.2);
