@@ -53,7 +53,6 @@ function displayRecipes(category) {
   
   recipesContainer.innerHTML = '';
   
-  
   category.recipes.forEach(recipe => {
     const recipeCard = document.createElement('div');
     recipeCard.className = 'recipe-card';
