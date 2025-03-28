@@ -1,0 +1,194 @@
+{
+  "categories": [
+    {
+      "id": "vegetable-fix",
+      "name": "Vegetable Fix",
+      "image": "images/Lemon & Ginger Green Juice.jpeg",
+      "recipes": [
+        {
+          "id": 1,
+          "name": "Kale Smoothie",
+          "image": "images/Lemon & Ginger Green Juice.jpeg",
+          "ingredients": [
+            "Kale",
+            "Celery",
+            "Green Apple",
+            "Lemon",
+            "Ginger"
+          ],
+          "instructions": "1. Wash all ingredients thoroughly\n2. Juice kale and celery first\n3. Add apple, lemon and ginger\n4. Stir well and serve over ice"
+        },
+        {
+          "id": 2,
+          "name": "Pepper and Carrot Mix",
+          "image": "images/Lemon & Ginger Green Juice.jpeg",
+          "ingredients": [
+            "Peppers",
+            "Carrot",
+            "Lime",
+            "Mint"
+          ],
+          "instructions": "1. Juice Peppers and Carrot\n2. Add lime juice\n3. Garnish with fresh mint leaves"
+        },
+        {
+          "id": 3,
+          "name": "Carrot-Beet Combo",
+          "image": "images/Lemon & Ginger Green Juice.jpeg",
+          "ingredients": [
+            "Carrots",
+            "Beetroot",
+            "Orange",
+            "Ginger"
+          ],
+          "instructions": "1. Juice carrots and beetroot\n2. Add fresh orange juice\n3. Mix in grated ginger"
+        }
+      ]
+    },
+    {
+      "id": "fruit-smoothies",
+      "name": "Fruit Smoothies",
+      "image": "images/Blend Berry Smoothie - Delicious & Healthy.jpeg",
+      "recipes": [
+        {
+          "id": 4,
+          "name": "Berry Blast Smoothie",
+          "image": "images/Blend Berry Smoothie - Delicious & Healthy.jpeg",
+          "ingredients": [
+            "Mixed berries",
+            "Banana",
+            "Greek yogurt",
+            "Almond milk"
+          ],
+          "instructions": "1. Blend all ingredients until smooth\n2. Add honey to taste\n3. Serve immediately"
+        },
+        {
+          "id": 5,
+          "name": "Rasberry Orange Mix",
+          "image": "images/Blend Berry Smoothie - Delicious & Healthy.jpeg",
+          "ingredients": [
+            "Rasberries",
+            "oranges",
+            "Cold water",
+            "Honey"
+          ],
+          "instructions": "1. Blend fruits first\n2. Add water and honey\n3. Blend until creamy"
+        },
+        {
+          "id": 6,
+          "name": "Watermelon Power",
+          "image": "images/Blend Berry Smoothie - Delicious & Healthy.jpeg",
+          "ingredients": [
+            "Watermelons",
+            "Crushed Ice",
+            "Cold water",
+            "Honey"
+          ],
+          "instructions": "1. Blend sliced watermelons\n2. Add cold water gradually\n3. Sweeten with honey"
+        }
+      ]
+    },
+    {
+      "id": "health-boost",
+      "name": "Health Boost",
+      "image": "images/Citrus-Ginger Zest Juice.jpeg",
+      "recipes": [
+        {
+          "id": 7,
+          "name": "Immune Booster",
+          "image": "images/Citrus-Ginger Zest Juice.jpeg",
+          "ingredients": [
+            "Orange",
+            "Ginger",
+            "Turmeric",
+            "Carrot"
+          ],
+          "instructions": "1. Juice oranges and carrots\n2. Add grated ginger and turmeric\n3. Stir well before drinking"
+        },
+        {
+          "id": 8,
+          "name": "Health Defender",
+          "image": "images/Citrus-Ginger Zest Juice.jpeg",
+          "ingredients": [
+            "Pears",
+            "Apple Juice",
+            "Lemon",
+            "Ginger"
+          ],
+          "instructions": "1. Juice pears and lemons\n2. Add apple juice and ginger\n3. Serve chilled"
+        },
+        {
+          "id": 9,
+          "name": "Hangover Cure",
+          "image": "images/Citrus-Ginger Zest Juice.jpeg",
+          "ingredients": [
+            "Watermelons",
+            "Lemon Juice",
+            "Cold water",
+            "Nectar"
+          ],
+          "instructions": "1. Juice watermelon slices\n2. Add lemon juice and cold water \n3. blend till smooth and add ice cubes"
+        }
+      ]
+    },
+    {
+      "id": "cleanse-detox",
+      "name": "Cleanse & Detox",
+      "image": "images/Feel Your Best with This Refreshing Homemade Juice.jpeg",
+      "recipes": [
+        {
+          "id": 10,
+          "name": "Liver Cleanse",
+          "image": "images/Feel Your Best with This Refreshing Homemade Juice.jpeg",
+          "ingredients": [
+            "Beetroot",
+            "Lemon",
+            "Ginger",
+            "Dandelion greens"
+          ],
+          "instructions": "1. Juice all ingredients\n2. Drink immediately for best results"
+        },
+        {
+          "id": 11,
+          "name": "Dawaa",
+          "image": "images/Feel Your Best with This Refreshing Homemade Juice.jpeg",
+          "ingredients": [
+            "Ginger",
+            "Lemon",
+            "Hot water",
+            "Mint"
+          ],
+          "instructions": "1. Juice ginger and lemon\n2. Add Hot water\n3. Garnish with mint"
+        },
+        {
+          "id": 12,
+          "name": "Green Cleanse",
+          "image": "images/Feel Your Best with This Refreshing Homemade Juice.jpeg",
+          "ingredients": [
+            "Kale",
+            "Celery",
+            "Lemon",
+            "Parsley"
+          ],
+          "instructions": "1. Juice greens first\n2. Add lemon juice\n3. Drink immediately"
+        }
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "id": "19d8",
+      "recipeId": "8",
+      "dateAdded": "2025-03-28T15:28:15.213Z"
+    },
+    {
+      "id": "e430",
+      "recipeId": "2",
+      "dateAdded": "2025-03-28T15:28:21.265Z"
+    },
+    {
+      "id": "4777",
+      "recipeId": "2",
+      "dateAdded": "2025-03-28T15:28:22.130Z"
+    }
+  ]
+}
