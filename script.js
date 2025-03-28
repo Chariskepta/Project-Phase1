@@ -90,6 +90,8 @@ function addToFavorites(event) {
       dateAdded: new Date().toISOString() 
     })
   })
+
+  
   .then(response => response.json())
   .then(data => {
     event.target.textContent = '✓ Added to Favorites!';
